@@ -376,6 +376,7 @@ padding: 6px 22px;
 }
 
 .portfolio-card-title {
+    color: var(--primery-text-color);
     font-size: 18px;
     font-weight: 700;
     line-height: 2;
